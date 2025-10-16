@@ -1,5 +1,5 @@
 import { useEffect, useState, useCallback } from "react";
-import { getDashboardData } from "../../services/AiService.js";
+import { getDashboardData } from "../../services/AIService.js"
 import DayWiseSpendChart from "../../components/user/DayWiseSpendChart.jsx";
 import StatCard from "../../components/user/StatCard.jsx";
 import PaymentMethodDoughnut from "../../components/user/PaymentMethodDoughnut.jsx";
