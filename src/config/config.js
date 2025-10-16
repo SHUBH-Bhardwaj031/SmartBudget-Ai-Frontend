@@ -1,1 +1,1 @@
-export const serverBaseURL = "http://localhost:8081/api";
+export const serverBaseURL = "http://smart-budget-ai-backend.vercel.app:8081/api";
